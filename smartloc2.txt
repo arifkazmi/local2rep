@@ -1,0 +1,2 @@
+2nd file to use smartgit 
+and pull push to remote 
